@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -x
 
 go get golang.org/x/tools/cmd/goimports
 mkdir -p ~/bin
